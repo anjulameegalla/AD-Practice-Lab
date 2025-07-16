@@ -38,7 +38,7 @@
 
 RDP into GOTHAM-DC with Username : anjula & Password : labuser123Anjula
 
-![{DA4CEC44-B8D5-40E1-90AB-57BFC38D5772}.png](DA4CEC44-B8D5-40E1-90AB-57BFC38D5772.png)
+![{DA4CEC44-B8D5-40E1-90AB-57BFC38D5772}.png](imgs/DA4CEC44-B8D5-40E1-90AB-57BFC38D5772.png)
 
 ### Configuring services
 
