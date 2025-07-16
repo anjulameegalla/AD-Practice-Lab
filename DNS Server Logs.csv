@@ -1,0 +1,39 @@
+﻿RecordId,Time,Provider,Level,EventId,Message
+38,7/16/2025 1:51:41 PM,Microsoft-Windows-DNS-Server-Service,4,4,(EventLook - dump of EventData) 
+37,7/16/2025 1:51:41 PM,Microsoft-Windows-DNS-Server-Service,4,2,(EventLook - dump of EventData) 
+36,7/16/2025 1:51:40 PM,Microsoft-Windows-DNS-Server-Service,4,7648,(EventLook - dump of EventData) GOTHAM.local GOTHAM-DC.GOTHAM.local 
+35,7/16/2025 1:51:40 PM,Microsoft-Windows-DNS-Server-Service,4,769,(EventLook - dump of EventData) GOTHAM.local NULL GOTHAM-DC.GOTHAM.local .
+34,7/16/2025 1:51:40 PM,Microsoft-Windows-DNS-Server-Service,4,769,(EventLook - dump of EventData) _msdcs.GOTHAM.local NULL GOTHAM-DC.GOTHAM.local .
+33,7/16/2025 1:51:23 PM,Microsoft-Windows-DNS-Server-Service,3,4013,(EventLook - dump of EventData) 
+32,7/16/2025 1:51:18 PM,Microsoft-Windows-DNS-Server-Service,4,7693,(EventLook - dump of EventData) 
+31,7/16/2025 11:08:38 AM,Microsoft-Windows-DNS-Server-Service,4,3,(EventLook - dump of EventData) 
+30,7/16/2025 11:07:33 AM,Microsoft-Windows-DNS-Server-Service,4,4,(EventLook - dump of EventData) 
+29,7/16/2025 11:07:32 AM,Microsoft-Windows-DNS-Server-Service,4,2,(EventLook - dump of EventData) 
+28,7/16/2025 11:07:32 AM,Microsoft-Windows-DNS-Server-Service,4,7648,(EventLook - dump of EventData) GOTHAM.local GOTHAM-DC.GOTHAM.local 
+27,7/16/2025 11:07:32 AM,Microsoft-Windows-DNS-Server-Service,4,769,(EventLook - dump of EventData) GOTHAM.local NULL GOTHAM-DC.GOTHAM.local .
+26,7/16/2025 11:07:32 AM,Microsoft-Windows-DNS-Server-Service,4,769,(EventLook - dump of EventData) _msdcs.GOTHAM.local NULL GOTHAM-DC.GOTHAM.local .
+25,7/16/2025 11:07:15 AM,Microsoft-Windows-DNS-Server-Service,3,4013,(EventLook - dump of EventData) 
+24,7/16/2025 11:07:09 AM,Microsoft-Windows-DNS-Server-Service,4,7693,(EventLook - dump of EventData) 
+23,7/16/2025 9:23:29 AM,Microsoft-Windows-DNS-Server-Service,4,3,(EventLook - dump of EventData) 
+22,7/16/2025 4:38:07 AM,Microsoft-Windows-DNS-Server-Service,4,4,(EventLook - dump of EventData) 
+21,7/16/2025 4:38:07 AM,Microsoft-Windows-DNS-Server-Service,4,2,(EventLook - dump of EventData) 
+20,7/16/2025 4:38:07 AM,Microsoft-Windows-DNS-Server-Service,4,7648,(EventLook - dump of EventData) GOTHAM.local GOTHAM-DC.GOTHAM.local 
+19,7/16/2025 4:38:07 AM,Microsoft-Windows-DNS-Server-Service,4,769,(EventLook - dump of EventData) GOTHAM.local NULL GOTHAM-DC.GOTHAM.local .
+18,7/16/2025 4:38:07 AM,Microsoft-Windows-DNS-Server-Service,4,769,(EventLook - dump of EventData) _msdcs.GOTHAM.local NULL GOTHAM-DC.GOTHAM.local .
+17,7/16/2025 4:37:49 AM,Microsoft-Windows-DNS-Server-Service,3,4013,(EventLook - dump of EventData) 
+16,7/16/2025 4:37:43 AM,Microsoft-Windows-DNS-Server-Service,4,7693,(EventLook - dump of EventData) 
+15,7/16/2025 4:37:10 AM,Microsoft-Windows-DNS-Server-Service,4,3,(EventLook - dump of EventData) 
+14,7/16/2025 2:32:28 AM,Microsoft-Windows-DNS-Server-Service,4,4500,"(EventLook - dump of EventData) ForestDnsZones.GOTHAM.local DC=ForestDnsZones,DC=GOTHAM,DC=local "
+13,7/16/2025 2:32:28 AM,Microsoft-Windows-DNS-Server-Service,4,4500,"(EventLook - dump of EventData) DomainDnsZones.GOTHAM.local DC=DomainDnsZones,DC=GOTHAM,DC=local "
+12,7/16/2025 2:25:21 AM,Microsoft-Windows-DNS-Server-Service,4,7648,(EventLook - dump of EventData) GOTHAM.local GOTHAM-DC.GOTHAM.local 
+11,7/16/2025 2:24:20 AM,Microsoft-Windows-DNS-Server-Service,4,2,(EventLook - dump of EventData) 
+10,7/16/2025 2:24:19 AM,Microsoft-Windows-DNS-Server-Service,4,4,(EventLook - dump of EventData) 
+9,7/16/2025 2:24:19 AM,Microsoft-Windows-DNS-Server-Service,4,769,(EventLook - dump of EventData) GOTHAM.local GOTHAM.local.dns GOTHAM-DC.GOTHAM.local .
+8,7/16/2025 2:24:19 AM,Microsoft-Windows-DNS-Server-Service,4,769,(EventLook - dump of EventData) _msdcs.GOTHAM.local _msdcs.GOTHAM.local.dns GOTHAM-DC.GOTHAM.local .
+7,7/16/2025 2:24:01 AM,Microsoft-Windows-DNS-Server-Service,3,4013,(EventLook - dump of EventData) 
+6,7/16/2025 2:23:55 AM,Microsoft-Windows-DNS-Server-Service,4,7693,(EventLook - dump of EventData) 
+5,7/16/2025 2:23:24 AM,Microsoft-Windows-DNS-Server-Service,4,3,(EventLook - dump of EventData) 
+4,7/16/2025 2:23:24 AM,Microsoft-Windows-DNS-Server-Service,4,3150,(EventLook - dump of EventData) 2 GOTHAM.local GOTHAM.local.dns 
+3,7/16/2025 2:23:05 AM,Microsoft-Windows-DNS-Server-Service,4,3150,(EventLook - dump of EventData) 1 _msdcs.GOTHAM.local _msdcs.GOTHAM.local.dns 
+2,7/16/2025 2:23:05 AM,Microsoft-Windows-DNS-Server-Service,4,3150,(EventLook - dump of EventData) 1 GOTHAM.local GOTHAM.local.dns 
+1,7/16/2025 2:23:05 AM,Microsoft-Windows-DNS-Server-Service,4,2631,(EventLook - dump of EventData) DNS server root hints DNS server forwarders DNS resolver 
