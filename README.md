@@ -189,13 +189,13 @@ Launch Command prompt as administrator.
 Setup SPN for SQLService account
 
 ```bash
-**setspn -a GOTHAM-DC/SQLService.GOTHAM.local:60111 GOTHAM\SQLService**
+setspn -a GOTHAM-DC/SQLService.GOTHAM.local:60111 GOTHAM\SQLService
 ```
 
 Confirm SPN.
 
 ```bash
-**setspn -T GOTHAM.local -Q */***
+setspn -T GOTHAM.local -Q */*
 ```
 
 ![photo_6320918058767599712_y.jpg](imgs/d1317293-f3a1-4a5d-b028-a16ac54999de.png)
