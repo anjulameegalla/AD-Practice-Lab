@@ -316,6 +316,20 @@ and
 
 ---
 
-## Setting up the Attacker machine - steps
+## Setting up the Attacker machine
 
-to be continued…
+### Attacker VM
+
+- VM name : KALI
+- Image : Kali Linux 2025.2
+- Username : kali
+- Password : labuser123Anjula
+- Vnet : ADLabNet (10.0.1.0/24)
+- Connection : SSH (22) / Azure serial console
+
+![photo_6323169858581284747_y.jpg](imgs/photo_6323169858581284747_y.jpg)
+
+
+
+
+### ***to be continued…***
