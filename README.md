@@ -38,7 +38,7 @@
 
 RDP into GOTHAM-DC with Username : anjula & Password : labuser123Anjula
 
-![{DA4CEC44-B8D5-40E1-90AB-57BFC38D5772}.png](DA4CEC44-B8D5-40E1-90AB-57BFC38D5772.png)
+![{DA4CEC44-B8D5-40E1-90AB-57BFC38D5772}.png](imgs/DA4CEC44-B8D5-40E1-90AB-57BFC38D5772.png)
 
 ### Configuring services
 
@@ -59,19 +59,19 @@ Active directory domain service configuration wizard > Deployment configuration 
 - Domain function level : Windows Server 2016
 - Password : labuser123Anjula
 
-![photo_6320918058767599684_y.jpg](photo_6320918058767599684_y.jpg)
+![photo_6320918058767599684_y.jpg](imgs/photo_6320918058767599684_y.jpg)
 
-![photo_6320918058767599685_y.jpg](photo_6320918058767599685_y.jpg)
+![photo_6320918058767599685_y.jpg](imgs/photo_6320918058767599685_y.jpg)
 
-![photo_6320918058767599687_y.jpg](photo_6320918058767599687_y.jpg)
+![photo_6320918058767599687_y.jpg](imgs/photo_6320918058767599687_y.jpg)
 
-![photo_6320918058767599688_y.jpg](photo_6320918058767599688_y.jpg)
+![photo_6320918058767599688_y.jpg](imgs/photo_6320918058767599688_y.jpg)
 
 Reboot machine.
 
 RDP into GOTHAM-DC with domain credentials; Username : GOTHAM\anjula & Password : labuser123Anjula
 
-![photo_6320918058767599691_x.jpg](photo_6320918058767599691_x.jpg)
+![photo_6320918058767599691_x.jpg](imgs/photo_6320918058767599691_x.jpg)
 
 ### Configuring certificate services
 
@@ -83,9 +83,9 @@ Install service.
 
 Choose “Configure Active Directory certificate services on the destination server”.
 
-![photo_6320918058767599692_y.jpg](photo_6320918058767599692_y.jpg)
+![photo_6320918058767599692_y.jpg](imgs/photo_6320918058767599692_y.jpg)
 
-![photo_6320918058767599693_y.jpg](photo_6320918058767599693_y.jpg)
+![photo_6320918058767599693_y.jpg](imgs/photo_6320918058767599693_y.jpg)
 
 AD CS configuration wizard >
 
@@ -95,13 +95,13 @@ AD CS configuration wizard >
 - CA type : Root CA
 - Private key > Validity period : 99 years
 
-![photo_6320918058767599694_y.jpg](photo_6320918058767599694_y.jpg)
+![photo_6320918058767599694_y.jpg](imgs/photo_6320918058767599694_y.jpg)
 
-![photo_6320918058767599695_y.jpg](photo_6320918058767599695_y.jpg)
+![photo_6320918058767599695_y.jpg](imgs/photo_6320918058767599695_y.jpg)
 
-![photo_6320918058767599696_y.jpg](photo_6320918058767599696_y.jpg)
+![photo_6320918058767599696_y.jpg](imgs/photo_6320918058767599696_y.jpg)
 
-![photo_6320918058767599697_y.jpg](photo_6320918058767599697_y.jpg)
+![photo_6320918058767599697_y.jpg](imgs/photo_6320918058767599697_y.jpg)
 
 Configure and reboot machine.
 
@@ -117,7 +117,7 @@ Launch Server manager > File and storage services > Shares > Tasks > New share w
 - Share location > custom path : C:\hackme
 - Share name : hackme
 
-![photo_6320918058767599699_y.jpg](photo_6320918058767599699_y.jpg)
+![photo_6320918058767599699_y.jpg](imgs/photo_6320918058767599699_y.jpg)
 
 Create and close.
 
@@ -131,11 +131,11 @@ Create new Organizational unit (OU) “Groups”
 
 Move every entry except “Guest” and “anjula” from Users to Groups
 
-![photo_6320918058767599701_y.jpg](photo_6320918058767599701_y.jpg)
+![photo_6320918058767599701_y.jpg](imgs/photo_6320918058767599701_y.jpg)
 
-![photo_6320918058767599703_x.jpg](photo_6320918058767599703_x.jpg)
+![photo_6320918058767599703_x.jpg](imgs/photo_6320918058767599703_x.jpg)
 
-![photo_6320918058767599702_y.jpg](photo_6320918058767599702_y.jpg)
+![photo_6320918058767599702_y.jpg](imgs/photo_6320918058767599702_y.jpg)
 
 MARVEL.local > Users >
 
@@ -155,13 +155,13 @@ Create another user
 - Password : Password2
 - Check “Password never expires”
 
-![photo_6320918058767599704_y.jpg](photo_6320918058767599704_y.jpg)
+![photo_6320918058767599704_y.jpg](imgs/photo_6320918058767599704_y.jpg)
 
-![photo_6320918058767599705_x.jpg](photo_6320918058767599705_x.jpg)
+![photo_6320918058767599705_x.jpg](imgs/photo_6320918058767599705_x.jpg)
 
-![photo_6320918058767599707_x.jpg](photo_6320918058767599707_x.jpg)
+![photo_6320918058767599707_x.jpg](imgs/photo_6320918058767599707_x.jpg)
 
-![photo_6320918058767599706_x.jpg](photo_6320918058767599706_x.jpg)
+![photo_6320918058767599706_x.jpg](imgs/photo_6320918058767599706_x.jpg)
 
 Copy user “anjula” to create another user
 
@@ -174,11 +174,11 @@ SQLService > properties >
 
 - Description : “Password is MYpassword123#”
 
-![photo_6320918058767599708_y.jpg](photo_6320918058767599708_y.jpg)
+![photo_6320918058767599708_y.jpg](imgs/photo_6320918058767599708_y.jpg)
 
-![photo_6320918058767599709_x.jpg](photo_6320918058767599709_x.jpg)
+![photo_6320918058767599709_x.jpg](imgs/photo_6320918058767599709_x.jpg)
 
-![photo_6320918058767599711_x.jpg](photo_6320918058767599711_x.jpg)
+![photo_6320918058767599711_x.jpg](imgs/photo_6320918058767599711_x.jpg)
 
 ---
 
@@ -198,9 +198,9 @@ Confirm SPN.
 **setspn -T GOTHAM.local -Q */***
 ```
 
-![photo_6320918058767599712_y.jpg](d1317293-f3a1-4a5d-b028-a16ac54999de.png)
+![photo_6320918058767599712_y.jpg](imgs/d1317293-f3a1-4a5d-b028-a16ac54999de.png)
 
-![photo_6320918058767599713_y.jpg](photo_6320918058767599713_y.jpg)
+![photo_6320918058767599713_y.jpg](imgs/photo_6320918058767599713_y.jpg)
 
 ### **Domain machine IP address**
 
@@ -226,7 +226,7 @@ Choose Ethernet > properties > Internet Protocol version 4 (TCP/IPv4)
 
 - Preferred DNS server : 10.0.1.4
 
-![photo_6320918058767599724_y.jpg](photo_6320918058767599724_y.jpg)
+![photo_6320918058767599724_y.jpg](imgs/photo_6320918058767599724_y.jpg)
 
 RDP connection will be lost. Reconnect to the same user “bwayne”
 
@@ -241,9 +241,9 @@ Join a domain >
 - User : anjula
 - Password : labuser123Anjula
 
-![photo_6320918058767599725_w.jpg](photo_6320918058767599725_w.jpg)
+![photo_6320918058767599725_w.jpg](imgs/photo_6320918058767599725_w.jpg)
 
-![photo_6320918058767599726_x.jpg](photo_6320918058767599726_x.jpg)
+![photo_6320918058767599726_x.jpg](imgs/photo_6320918058767599726_x.jpg)
 
 Restart machine.
 
@@ -257,7 +257,7 @@ Launch GOTHAM-DC > Server manager > Tools > Active Directory users and computers
 
 Both user computers “THEBATMAN” and “WAYNEENT” is listed under the domain.
 
-![photo_6320918058767599728_y.jpg](photo_6320918058767599728_y.jpg)
+![photo_6320918058767599728_y.jpg](imgs/photo_6320918058767599728_y.jpg)
 
 RDP into THEBATMAN with admin credentials; Username : GOTHAM\anjula and Password : labuser123Anjula
 
@@ -271,9 +271,9 @@ Select Users, computers, service accounts or groups >
 
 Check names, then apply.
 
-![photo_6320918058767599729_y.jpg](photo_6320918058767599729_y.jpg)
+![photo_6320918058767599729_y.jpg](imgs/photo_6320918058767599729_y.jpg)
 
-![photo_6320918058767599732_x.jpg](photo_6320918058767599732_x.jpg)
+![photo_6320918058767599732_x.jpg](imgs/photo_6320918058767599732_x.jpg)
 
 RDP into WAYNEENT with admin credentials; Username : GOTHAM\anjula and Password : labuser123Anjula
 
@@ -291,7 +291,7 @@ Check names & choose “Add” again
 
 Check names, then apply.
 
-![photo_6320918058767599733_x.jpg](photo_6320918058767599733_x.jpg)
+![photo_6320918058767599733_x.jpg](imgs/photo_6320918058767599733_x.jpg)
 
 ---
 
