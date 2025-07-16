@@ -105,6 +105,8 @@ AD CS configuration wizard >
 
 Configure and reboot machine.
 
+---
+
 ### Setting up a share
 
 This PC > C:\ Drive > Create new folder “hackme”
@@ -118,6 +120,8 @@ Launch Server manager > File and storage services > Shares > Tasks > New share w
 ![photo_6320918058767599699_y.jpg](photo_6320918058767599699_y.jpg)
 
 Create and close.
+
+---
 
 ### Creating domain users
 
@@ -176,6 +180,8 @@ SQLService > properties >
 
 ![photo_6320918058767599711_x.jpg](photo_6320918058767599711_x.jpg)
 
+---
+
 ### Setting up SPNs
 
 Launch Command prompt as administrator.
@@ -204,13 +210,7 @@ Confirm SPN.
 
 - **IP : 10.0.1.4/24**
 
-### Azure VM summary
-
-- GOTHAM-DC (10.0.1.4/24)
-- THEBATMAN (10.0.1.5/24)
-- WAYNEENT (10.0.1.6/24)
-
-![photo_6320918058767599723_y.jpg](963e8fb5-3bbf-4c7e-9c25-5e4219170717.png)
+---
 
 ### Connecting to user machines
 
@@ -293,6 +293,8 @@ Check names, then apply.
 
 ![photo_6320918058767599733_x.jpg](photo_6320918058767599733_x.jpg)
 
+---
+
 ### Re-connecting to machines with Domain user accounts
 
 RDP into THEBATMAN machine with;
@@ -309,6 +311,8 @@ and
 
 - Username : GOTHAM\lfox
 - Password : Password2
+
+---
 
 ## Setting up the Attacker machine - steps
 
