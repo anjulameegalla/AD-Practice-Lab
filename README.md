@@ -1,4 +1,4 @@
-# AD Pentest Lab
+# AD Pentest Lab on Azure
 
 ## Active Directory lab creation - Initial steps
 
@@ -60,6 +60,7 @@ Active directory domain service configuration wizard > Deployment configuration 
 - Forest function level : Windows Server 2016
 - Domain function level : Windows Server 2016
 - Password : labuser123Anjula
+- NetBIOS domain name : GOTHAM
 
 ![photo_6320918058767599684_y.jpg](imgs/photo_6320918058767599684_y.jpg)
 
