@@ -207,8 +207,9 @@ setspn -T GOTHAM.local -Q */*
 
 ### **Domain machine IP address**
 
+Command prompt >
 ```bash
-**ipconfig**
+ipconfig
 ```
 
 - **IP : 10.0.1.4/24**
