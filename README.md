@@ -332,6 +332,16 @@ and
 ![photo_6323169858581284747_y.jpg](imgs/photo_6323169858581284747_y.jpg)
 
 
+---
 
+### Planning the attack methods - pentest structure
 
+1. LLMNR poisoning
+2. SMB relay
+3. IPv6 DNS attack
+4. MFP hacking
+5. 
+
+#
+#
 ### ***to be continued…***
