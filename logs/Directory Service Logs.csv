@@ -1,0 +1,123 @@
+﻿RecordId,Time,Provider,Level,EventId,Message
+122,7/16/2025 1:51:40 PM,Microsoft-Windows-ActiveDirectory_DomainService,4,1394,(EventLook - dump of EventData) 
+121,7/16/2025 1:51:10 PM,Microsoft-Windows-ActiveDirectory_DomainService,4,1000,(EventLook - dump of EventData) 
+120,7/16/2025 1:51:10 PM,Microsoft-Windows-ActiveDirectory_DomainService,3,3041,(EventLook - dump of EventData) 
+119,7/16/2025 1:51:10 PM,Microsoft-Windows-ActiveDirectory_DomainService,3,2886,(EventLook - dump of EventData) 
+118,7/16/2025 1:51:00 PM,Microsoft-Windows-ActiveDirectory_DomainService,4,2405,(EventLook - dump of EventData) Recycle Bin Feature
+117,7/16/2025 1:51:00 PM,Microsoft-Windows-ActiveDirectory_DomainService,4,2120,(EventLook - dump of EventData) 
+116,7/16/2025 1:51:00 PM,Microsoft-Windows-ActiveDirectory_DomainService,4,2405,(EventLook - dump of EventData) Privileged Access Management Feature
+115,7/16/2025 1:51:00 PM,Microsoft-Windows-ActiveDirectory_DomainService,4,2208,(EventLook - dump of EventData) 
+114,7/16/2025 1:51:00 PM,Microsoft-Windows-ActiveDirectory_DomainService,4,2179,(EventLook - dump of EventData) 5815868297694945208
+113,7/16/2025 1:51:00 PM,Microsoft-Windows-ActiveDirectory_DomainService,4,1109,(EventLook - dump of EventData) f67b7e36-70b7-4a89-a67d-674273bb35dc dfe36c51-2e68-4612-ae13-eb26c3fc935f 24580
+112,7/16/2025 1:51:00 PM,Microsoft-Windows-ActiveDirectory_DomainService,3,2170,(EventLook - dump of EventData) 16249805446080380504 5815868297694945208
+111,7/16/2025 1:51:00 PM,Microsoft-Windows-ActiveDirectory_DomainService,4,2172,(EventLook - dump of EventData) 16249805446080380504
+110,7/16/2025 1:51:00 PM,Microsoft-Windows-ActiveDirectory_DomainService,4,2168,(EventLook - dump of EventData) 5815868297694945208
+109,7/16/2025 1:51:00 PM,Microsoft-Windows-ActiveDirectory_DomainService,4,2406,(EventLook - dump of EventData) Privileged Access Management Feature
+108,7/16/2025 1:51:00 PM,Microsoft-Windows-ActiveDirectory_DomainService,4,2406,(EventLook - dump of EventData) Recycle Bin Feature
+107,7/16/2025 1:51:00 PM,Microsoft-Windows-ActiveDirectory_DomainService,4,2121,(EventLook - dump of EventData) 
+106,7/16/2025 1:50:59 PM,Microsoft-Windows-ActiveDirectory_DomainService,3,3054,(EventLook - dump of EventData) 
+105,7/16/2025 1:50:59 PM,Microsoft-Windows-ActiveDirectory_DomainService,3,3051,(EventLook - dump of EventData) 
+104,7/16/2025 1:50:59 PM,Microsoft-Windows-ActiveDirectory_DomainService,4,2041,(EventLook - dump of EventData) 80000603 2
+103,7/16/2025 1:50:56 PM,Microsoft-Windows-ActiveDirectory_DomainService,3,1539,(EventLook - dump of EventData) c:
+102,7/16/2025 11:08:39 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,1004,(EventLook - dump of EventData) 
+101,7/16/2025 11:08:38 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2179,(EventLook - dump of EventData) 16249805446080380504
+100,7/16/2025 11:07:32 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,1394,(EventLook - dump of EventData) 
+99,7/16/2025 11:07:02 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,1000,(EventLook - dump of EventData) 
+98,7/16/2025 11:07:02 AM,Microsoft-Windows-ActiveDirectory_DomainService,3,3041,(EventLook - dump of EventData) 
+97,7/16/2025 11:07:02 AM,Microsoft-Windows-ActiveDirectory_DomainService,3,2886,(EventLook - dump of EventData) 
+96,7/16/2025 11:06:51 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2208,(EventLook - dump of EventData) 
+95,7/16/2025 11:06:51 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2405,(EventLook - dump of EventData) Recycle Bin Feature
+94,7/16/2025 11:06:51 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2120,(EventLook - dump of EventData) 
+93,7/16/2025 11:06:51 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2405,(EventLook - dump of EventData) Privileged Access Management Feature
+92,7/16/2025 11:06:51 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2179,(EventLook - dump of EventData) 16249805446080380504
+91,7/16/2025 11:06:51 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,1109,(EventLook - dump of EventData) 14be4a87-7bcf-4375-85ec-9b7ca5055279 f67b7e36-70b7-4a89-a67d-674273bb35dc 20483
+90,7/16/2025 11:06:51 AM,Microsoft-Windows-ActiveDirectory_DomainService,3,2170,(EventLook - dump of EventData) 5320323595697060797 16249805446080380504
+89,7/16/2025 11:06:51 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2172,(EventLook - dump of EventData) 5320323595697060797
+88,7/16/2025 11:06:51 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2168,(EventLook - dump of EventData) 16249805446080380504
+87,7/16/2025 11:06:51 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2406,(EventLook - dump of EventData) Privileged Access Management Feature
+86,7/16/2025 11:06:51 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2406,(EventLook - dump of EventData) Recycle Bin Feature
+85,7/16/2025 11:06:51 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2121,(EventLook - dump of EventData) 
+84,7/16/2025 11:06:51 AM,Microsoft-Windows-ActiveDirectory_DomainService,3,3054,(EventLook - dump of EventData) 
+83,7/16/2025 11:06:51 AM,Microsoft-Windows-ActiveDirectory_DomainService,3,3051,(EventLook - dump of EventData) 
+82,7/16/2025 11:06:51 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2041,(EventLook - dump of EventData) 80000603 2
+81,7/16/2025 11:06:48 AM,Microsoft-Windows-ActiveDirectory_DomainService,3,1539,(EventLook - dump of EventData) c:
+80,7/16/2025 9:23:29 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,1004,(EventLook - dump of EventData) 
+79,7/16/2025 9:23:29 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2179,(EventLook - dump of EventData) 5320323595697060797
+78,7/16/2025 9:23:29 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2041,(EventLook - dump of EventData) 400004c5 3
+77,7/16/2025 5:38:12 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,1221,(EventLook - dump of EventData) 
+76,7/16/2025 5:38:12 AM,Microsoft-Windows-ActiveDirectory_DomainService,3,1220,(EventLook - dump of EventData) 8009030e No credentials are available in the security package
+75,7/16/2025 4:52:37 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,1869,(EventLook - dump of EventData) \\GOTHAM-DC.GOTHAM.local Default-First-Site-Name
+74,7/16/2025 4:52:37 AM,NTDS ISAM,4,701,"(EventLook - dump of EventData) NTDS 684,D,0 NTDSA:  C:\Windows\NTDS\ntds.dit 2 7/15/2025 0 1 1 3"
+73,7/16/2025 4:52:37 AM,NTDS ISAM,4,700,"(EventLook - dump of EventData) NTDS 684,D,0 NTDSA:  C:\Windows\NTDS\ntds.dit"
+72,7/16/2025 4:52:37 AM,NTDS ISAM,4,326,"(EventLook - dump of EventData) NTDS 684,D,50 NTDSA:  1 C:\Windows\NTDS\ntds.dit 0 [1] 0.000009 +J(0) +M(C:0K, Fs:1, WS:4K # 0K, PF:0K # 0K, P:0K) [2] 0.000552 -0.000164 (1) WT +J(0) +M(C:0K, Fs:19, WS:12K # 0K, PF:8K # 0K, P:8K) [3] 0.036311 -0.008500 (6) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:3480/2) +M(C:0K, Fs:16, WS:56K # 0K, PF:124K # 0K, P:124K) [4] 0.000239 +J(0) [5] - [6] - [7] - [8] 0.001366 -0.000464 (2) CM -0.000278 (2) WT +J(CM:2, PgRf:2, Rd:6/2, Dy:0/0, Lg:0/0) +M(C:32K, Fs:54, WS:208K # 0K, PF:224K # 0K, P:224K) [9] 0.002880 -0.001118 (5) CM -0.000924 (5) WT +J(CM:5, PgRf:24, Rd:0/5, Dy:0/0, Lg:0/0) +M(C:-8K, Fs:27, WS:80K # 0K, PF:192K # 0K, P:192K) [10] 0.000522 -0.000316 (3) CM -0.000226 (3) WT +J(CM:3, PgRf:40, Rd:0/3, Dy:0/0, Lg:0/0) +M(C:-4K, Fs:3, WS:4K # 0K, PF:60K # 0K, P:60K) [11] 0.000017 +J(CM:0, PgRf:1, Rd:0/0, Dy:0/0, Lg:0/0) +M(C:0K, Fs:2, WS:8K # 0K, PF:0K # 0K, P:0K) [12] 0.000052 +J(CM:0, PgRf:42, Rd:0/0, Dy:0/0, Lg:0/0) +M(C:0K, Fs:1, WS:4K # 0K, PF:0K # 0K, P:0K) [13] 0.000001 +J(0) [14] 0.0 +J(0) [15] 0.000007 +J(CM:0, PgRf:1, Rd:0/0, Dy:0/0, Lg:0/0). 0 0 lgposAttach = 00000002:0662:0268"
+71,7/16/2025 4:52:37 AM,NTDS ISAM,4,105,"(EventLook - dump of EventData) NTDS 684,D,0 NTDSA:  0 0 [1] 0.000824 +J(0) +M(C:0K, Fs:77, WS:296K # 0K, PF:3148K # 340K, P:3148K) [2] 0.000798 +J(0) +M(C:16K, Fs:126, WS:492K # 288K, PF:304K # 304K, P:304K) [3] 0.000031 +J(0) +M(C:0K, Fs:5, WS:20K # 20K, PF:64K # 64K, P:64K) [4] 0.008328 -0.000148 (1) WT +J(0) +M(C:0K, Fs:132, WS:452K # 452K, PF:7644K # 7644K, P:7644K) [5] 0.000400 +J(0) +M(C:0K, Fs:1, WS:4K # 4K, PF:0K # 0K, P:0K) [6] 0.003523 +J(0) +M(C:0K, Fs:17, WS:64K # 64K, PF:12K # 12K, P:12K) [7] 0.043778 -0.026451 (41) WT +J(0) +M(C:0K, Fs:2576, WS:10284K # 10284K, PF:10260K # 10260K, P:10260K) [8] - [9] - [10] - [11] - [12] - [13] 0.018457 -0.007451 (42) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:616/1) +M(C:0K, Fs:9, WS:-10220K # 16K, PF:-10252K # 16K, P:-10252K) [14] 0.000031 +J(0) +M(C:0K, Fs:1, WS:4K # 0K, PF:0K # 0K, P:0K) [15] 0.005028 +J(0) +M(C:0K, Fs:821, WS:3280K # 0K, PF:68K # 0K, P:68K) [16] 0.000552 -0.000249 (1) WT +J(0) +M(C:0K, Fs:2, WS:0K # 0K, PF:0K # 0K, P:0K). "
+70,7/16/2025 4:52:37 AM,NTDS ISAM,4,102,"(EventLook - dump of EventData) NTDS 684,P,98 NTDSA:  0 10 00 17763 0000"
+69,7/16/2025 4:38:07 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,1394,(EventLook - dump of EventData) 
+68,7/16/2025 4:37:37 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,1000,(EventLook - dump of EventData) 
+67,7/16/2025 4:37:37 AM,Microsoft-Windows-ActiveDirectory_DomainService,3,3041,(EventLook - dump of EventData) 
+66,7/16/2025 4:37:37 AM,Microsoft-Windows-ActiveDirectory_DomainService,3,2886,(EventLook - dump of EventData) 
+65,7/16/2025 4:37:23 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2405,(EventLook - dump of EventData) Recycle Bin Feature
+64,7/16/2025 4:37:23 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2120,(EventLook - dump of EventData) 
+63,7/16/2025 4:37:23 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2405,(EventLook - dump of EventData) Privileged Access Management Feature
+62,7/16/2025 4:37:23 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2172,(EventLook - dump of EventData) 5320323595697060797
+61,7/16/2025 4:37:23 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2168,(EventLook - dump of EventData) 5320323595697060797
+60,7/16/2025 4:37:23 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2406,(EventLook - dump of EventData) Privileged Access Management Feature
+59,7/16/2025 4:37:23 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2406,(EventLook - dump of EventData) Recycle Bin Feature
+58,7/16/2025 4:37:23 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2121,(EventLook - dump of EventData) 
+57,7/16/2025 4:37:23 AM,Microsoft-Windows-ActiveDirectory_DomainService,3,3054,(EventLook - dump of EventData) 
+56,7/16/2025 4:37:23 AM,Microsoft-Windows-ActiveDirectory_DomainService,3,3051,(EventLook - dump of EventData) 
+55,7/16/2025 4:37:23 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2041,(EventLook - dump of EventData) 80000603 2
+54,7/16/2025 4:37:22 AM,Microsoft-Windows-ActiveDirectory_DomainService,3,1539,(EventLook - dump of EventData) c:
+53,7/16/2025 4:37:11 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,1004,(EventLook - dump of EventData) 
+52,7/16/2025 4:37:10 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2179,(EventLook - dump of EventData) 5320323595697060797
+51,7/16/2025 2:41:02 AM,Microsoft-Windows-ActiveDirectory_DomainService,3,1220,(EventLook - dump of EventData) 8009030e No credentials are available in the security package
+50,7/16/2025 2:38:48 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,1869,(EventLook - dump of EventData) \\GOTHAM-DC.GOTHAM.local Default-First-Site-Name
+49,7/16/2025 2:38:48 AM,NTDS ISAM,4,701,"(EventLook - dump of EventData) NTDS 676,D,0 NTDSA:  C:\Windows\NTDS\ntds.dit 3 7/15/2025 0 1 1 2"
+48,7/16/2025 2:38:48 AM,NTDS ISAM,4,700,"(EventLook - dump of EventData) NTDS 676,D,0 NTDSA:  C:\Windows\NTDS\ntds.dit"
+47,7/16/2025 2:38:48 AM,NTDS ISAM,4,326,"(EventLook - dump of EventData) NTDS 676,D,50 NTDSA:  1 C:\Windows\NTDS\ntds.dit 0 [1] 0.000007 +J(0) +M(C:0K, Fs:1, WS:4K # 0K, PF:0K # 0K, P:0K) [2] 0.000413 -0.000135 (1) WT +J(0) +M(C:0K, Fs:20, WS:12K # 0K, PF:8K # 0K, P:8K) [3] 0.032347 -0.008424 (6) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:3480/2) +M(C:0K, Fs:18, WS:60K # 0K, PF:128K # 0K, P:128K) [4] 0.000257 +J(0) [5] - [6] - [7] - [8] 0.001654 -0.000494 (2) CM -0.000226 (2) WT +J(CM:2, PgRf:2, Rd:4/2, Dy:0/0, Lg:0/0) +M(C:16K, Fs:49, WS:188K # 0K, PF:208K # 0K, P:208K) [9] 0.003624 -0.002761 (9) CM -0.002449 (9) WT +J(CM:9, PgRf:27, Rd:0/9, Dy:0/0, Lg:0/0) +M(C:-12K, Fs:29, WS:72K # 0K, PF:188K # 0K, P:188K) [10] 0.001519 -0.001324 (3) CM -0.001229 (3) WT +J(CM:3, PgRf:40, Rd:0/3, Dy:0/0, Lg:0/0) +M(C:0K, Fs:4, WS:8K # 0K, PF:64K # 0K, P:64K) [11] 0.000017 +J(CM:0, PgRf:1, Rd:0/0, Dy:0/0, Lg:0/0) +M(C:0K, Fs:1, WS:4K # 0K, PF:0K # 0K, P:0K) [12] 0.000054 +J(CM:0, PgRf:42, Rd:0/0, Dy:0/0, Lg:0/0) +M(C:0K, Fs:1, WS:4K # 0K, PF:0K # 0K, P:0K) [13] 0.000001 +J(0) [14] 0.000001 +J(0) [15] 0.000006 +J(CM:0, PgRf:1, Rd:0/0, Dy:0/0, Lg:0/0). 0 0 lgposAttach = 00000002:022B:0268"
+46,7/16/2025 2:38:48 AM,NTDS ISAM,4,105,"(EventLook - dump of EventData) NTDS 676,D,0 NTDSA:  0 0 [1] 0.000781 +J(0) +M(C:0K, Fs:82, WS:316K # 0K, PF:3220K # 340K, P:3220K) [2] 0.000486 +J(0) +M(C:16K, Fs:116, WS:456K # 264K, PF:292K # 292K, P:292K) [3] 0.000028 +J(0) +M(C:0K, Fs:5, WS:20K # 20K, PF:64K # 64K, P:64K) [4] 0.009084 -0.000477 (1) WT +J(0) +M(C:0K, Fs:127, WS:428K # 428K, PF:7640K # 7640K, P:7640K) [5] 0.000415 +J(0) +M(C:0K, Fs:1, WS:4K # 4K, PF:0K # 0K, P:0K) [6] 0.003448 +J(0) +M(C:0K, Fs:20, WS:76K # 76K, PF:24K # 24K, P:24K) [7] 0.042437 -0.025913 (41) WT +J(0) +M(C:0K, Fs:2576, WS:10284K # 10284K, PF:10260K # 10260K, P:10260K) [8] - [9] - [10] - [11] - [12] - [13] 0.021303 -0.010060 (42) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:616/1) +M(C:0K, Fs:21, WS:-10164K # 72K, PF:-10188K # 80K, P:-10188K) [14] 0.000030 +J(0) +M(C:0K, Fs:1, WS:4K # 0K, PF:0K # 0K, P:0K) [15] 0.002752 +J(0) +M(C:0K, Fs:821, WS:3280K # 0K, PF:68K # 0K, P:68K) [16] 0.000485 -0.000210 (1) WT +J(0) +M(C:0K, Fs:2, WS:0K # 0K, PF:0K # 0K, P:0K). "
+45,7/16/2025 2:38:48 AM,NTDS ISAM,4,102,"(EventLook - dump of EventData) NTDS 676,P,98 NTDSA:  0 10 00 17763 0000"
+44,7/16/2025 2:28:38 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2962,(EventLook - dump of EventData) 8
+43,7/16/2025 2:28:38 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2014,(EventLook - dump of EventData) 3
+42,7/16/2025 2:28:38 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2013,(EventLook - dump of EventData) 3 link_base_and_data_v2_index +link_base link_bdnt_and_base_and_data_v2_index +backlink_DNT link_dnt_and_base_and_data_v2_index +link_DNT 
+41,7/16/2025 2:28:38 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2961,(EventLook - dump of EventData) 8
+40,7/16/2025 2:28:38 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2041,(EventLook - dump of EventData) 80000734 1
+39,7/16/2025 2:26:22 AM,Microsoft-Windows-ActiveDirectory_DomainService,3,1844,(EventLook - dump of EventData) GOTHAM.local 1355 3201641 The specified domain either does not exist or could not be contacted. 
+38,7/16/2025 2:25:48 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2065,(EventLook - dump of EventData) 
+37,7/16/2025 2:24:48 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,1404,(EventLook - dump of EventData) 
+36,7/16/2025 2:24:23 AM,Microsoft-Windows-ActiveDirectory_DomainService,3,1844,(EventLook - dump of EventData) GOTHAM.local 1355 3201641 The specified domain either does not exist or could not be contacted. 
+35,7/16/2025 2:24:18 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,1394,(EventLook - dump of EventData) 
+34,7/16/2025 2:23:48 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,1000,(EventLook - dump of EventData) 
+33,7/16/2025 2:23:48 AM,Microsoft-Windows-ActiveDirectory_DomainService,3,3041,(EventLook - dump of EventData) 
+32,7/16/2025 2:23:48 AM,Microsoft-Windows-ActiveDirectory_DomainService,3,2886,(EventLook - dump of EventData) 
+31,7/16/2025 2:23:35 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2405,(EventLook - dump of EventData) Recycle Bin Feature
+30,7/16/2025 2:23:35 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2120,(EventLook - dump of EventData) 
+29,7/16/2025 2:23:35 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2405,(EventLook - dump of EventData) Privileged Access Management Feature
+28,7/16/2025 2:23:35 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2168,(EventLook - dump of EventData) 5320323595697060797
+27,7/16/2025 2:23:35 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2406,(EventLook - dump of EventData) Privileged Access Management Feature
+26,7/16/2025 2:23:35 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2406,(EventLook - dump of EventData) Recycle Bin Feature
+25,7/16/2025 2:23:35 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2121,(EventLook - dump of EventData) 
+24,7/16/2025 2:23:35 AM,Microsoft-Windows-ActiveDirectory_DomainService,3,3054,(EventLook - dump of EventData) 
+23,7/16/2025 2:23:35 AM,Microsoft-Windows-ActiveDirectory_DomainService,3,3051,(EventLook - dump of EventData) 
+22,7/16/2025 2:23:35 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2064,(EventLook - dump of EventData) 
+21,7/16/2025 2:23:35 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2041,(EventLook - dump of EventData) 80000603 2
+20,7/16/2025 2:23:34 AM,Microsoft-Windows-ActiveDirectory_DomainService,3,1539,(EventLook - dump of EventData) c:
+19,7/16/2025 2:22:52 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,1004,(EventLook - dump of EventData) 
+18,7/16/2025 2:22:52 AM,NTDS ISAM,4,103,"(EventLook - dump of EventData) NTDS 712,T,97 NTDSA:  0 [1] 0.000004 +J(0) +M(C:0K, Fs:0, WS:0K # 0K, PF:4K # 0K, P:4K) [2] 0.000395 -0.000382 (2) WT +J(0) +M(C:20K, Fs:5, WS:20K # 0K, PF:16K # 0K, P:16K) [3] 0.000124 +J(CM:0, PgRf:17, Rd:0/0, Dy:4/22, Lg:1144/11) +M(C:0K, Fs:8, WS:32K # 0K, PF:4K # 0K, P:4K) [4] 0.000003 +J(0) +M(C:4K, Fs:1, WS:4K # 0K, PF:0K # 0K, P:0K) [5] 0.215686 -0.116524 (17) WT +J(0) +M(C:-72K, Fs:260, WS:24K # 0K, PF:-72K # 0K, P:-72K) [6] 0.000023 +J(0) [7] 0.000008 +J(0) [8] 0.059370 -0.007872 (12) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:1376/2) +M(C:0K, Fs:8, WS:-160K # 0K, PF:-172K # 0K, P:-172K) [9] 0.005576 -0.000186 (1) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:66/1) +M(C:0K, Fs:1, WS:4K # 0K, PF:0K # 0K, P:0K) [10] 0.000123 +J(0) [11] 0.013317 -0.006336 (2) WT +J(0) [12] 0.000028 +J(0) +M(C:0K, Fs:0, WS:-4K # 0K, PF:-4K # 0K, P:-4K) [13] 0.000171 +J(0) [14] 0.001134 +J(0) +M(C:0K, Fs:0, WS:-6536K # 0K, PF:-6552K # 0K, P:-6552K) [15] 0.000010 +J(0). 0"
+17,7/16/2025 2:22:51 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2064,(EventLook - dump of EventData) 
+16,7/16/2025 2:22:51 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,1000,(EventLook - dump of EventData) 
+15,7/16/2025 2:22:51 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,1898,"(EventLook - dump of EventData) CN=sam-domain,CN=Schema,CN=Configuration,DC=GOTHAM,DC=local"
+14,7/16/2025 2:22:51 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,1898,"(EventLook - dump of EventData) CN=domain-dns,CN=Schema,CN=Configuration,DC=GOTHAM,DC=local"
+13,7/16/2025 2:22:51 AM,NTDS ISAM,4,701,"(EventLook - dump of EventData) NTDS 712,D,0 NTDSA:  C:\Windows\NTDS\ntds.dit 8 7/15/2025 0 1 1 1"
+12,7/16/2025 2:22:51 AM,NTDS ISAM,4,700,"(EventLook - dump of EventData) NTDS 712,D,0 NTDSA:  C:\Windows\NTDS\ntds.dit"
+11,7/16/2025 2:22:42 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2405,(EventLook - dump of EventData) Privileged Access Management Feature
+10,7/16/2025 2:22:42 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2405,(EventLook - dump of EventData) Recycle Bin Feature
+9,7/16/2025 2:22:42 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2120,(EventLook - dump of EventData) 
+8,7/16/2025 2:22:42 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2014,(EventLook - dump of EventData) 1
+7,7/16/2025 2:22:42 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2013,(EventLook - dump of EventData) 1 LCL_ABVIEW_index00000409 +ATTb590468 
+6,7/16/2025 2:22:42 AM,Microsoft-Windows-ActiveDirectory_DomainService,4,2041,(EventLook - dump of EventData) 80000603 2
+5,7/16/2025 2:22:41 AM,Microsoft-Windows-ActiveDirectory_DomainService,3,1539,(EventLook - dump of EventData) c:
+4,7/16/2025 2:22:41 AM,NTDS ISAM,4,326,"(EventLook - dump of EventData) NTDS 712,D,50 NTDSA:  1 C:\Windows\NTDS\ntds.dit 0 [1] 0.000003 +J(0) [2] 0.000475 -0.000173 (1) WT +J(0) +M(C:0K, Fs:18, WS:8K # 0K, PF:8K # 0K, P:8K) [3] 0.050872 -0.007319 (4) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:3480/2) +M(C:0K, Fs:15, WS:48K # 0K, PF:32K # 0K, P:32K) [4] 0.001507 +J(0) [5] - [6] - [7] - [8] 0.000687 -0.000379 (2) CM -0.000270 (2) WT +J(CM:2, PgRf:2, Rd:4/2, Dy:0/0, Lg:0/0) +M(C:16K, Fs:17, WS:56K # 0K, PF:296K # 0K, P:296K) [9] 0.001386 -0.000979 (7) CM -0.000738 (7) WT +J(CM:7, PgRf:24, Rd:0/6, Dy:0/0, Lg:0/0) +M(C:-8K, Fs:14, WS:16K # 0K, PF:192K # 0K, P:192K) [10] 0.000612 -0.000410 (4) CM -0.000280 (4) WT +J(CM:4, PgRf:40, Rd:0/4, Dy:0/0, Lg:0/0) +M(C:-4K, Fs:4, WS:4K # 0K, PF:60K # 0K, P:60K) [11] 0.000009 +J(CM:0, PgRf:1, Rd:0/0, Dy:0/0, Lg:0/0) [12] 0.000036 +J(CM:0, PgRf:42, Rd:0/0, Dy:0/0, Lg:0/0) [13] 0.0 +J(0) [14] 0.0 +J(0) [15] 0.003732 -0.000202 (2) WT +J(CM:0, PgRf:1, Rd:0/0, Dy:0/0, Lg:0/0) +M(C:0K, Fs:2, WS:0K # 0K, PF:0K # 0K, P:0K). 0 0 lgposAttach = 00000001:0001:0268"
+3,7/16/2025 2:22:41 AM,NTDS ISAM,4,637,"(EventLook - dump of EventData) NTDS 712,D,50 NTDSA:  C:\Windows\NTDS\ntds.jfm"
+2,7/16/2025 2:22:41 AM,NTDS ISAM,4,105,"(EventLook - dump of EventData) NTDS 712,D,0 NTDSA:  0 0 [1] 0.000611 +J(0) +M(C:0K, Fs:58, WS:224K # 0K, PF:2296K # 0K, P:2296K) [2] 0.000248 +J(0) +M(C:16K, Fs:73, WS:284K # 0K, PF:1124K # 0K, P:1124K) [3] 0.000035 +J(0) +M(C:0K, Fs:5, WS:20K # 0K, PF:64K # 0K, P:64K) [4] 0.007146 -0.000163 (1) WT +J(0) +M(C:0K, Fs:136, WS:468K # 0K, PF:7792K # 1992K, P:7792K) [5] 0.000357 +J(0) [6] 0.001039 +J(0) +M(C:0K, Fs:4, WS:12K # 0K, PF:16K # 24K, P:16K) [7] - [8] - [9] - [10] - [11] - [12] - [13] 0.155319 -0.009444 (69) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:616/1) +M(C:0K, Fs:2665, WS:404K # 5504K, PF:8K # 10256K, P:8K) [14] 0.000019 +J(0) [15] 0.001161 +J(0) +M(C:0K, Fs:821, WS:3280K # 0K, PF:68K # 0K, P:68K) [16] 0.082921 -0.000115 (3) WT +J(0) +M(C:0K, Fs:2, WS:0K # 0K, PF:0K # 0K, P:0K). "
+1,7/16/2025 2:22:41 AM,NTDS ISAM,4,102,"(EventLook - dump of EventData) NTDS 712,P,98 NTDSA:  0 10 00 17763 0000"
