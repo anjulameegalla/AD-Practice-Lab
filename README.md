@@ -349,5 +349,5 @@ and
 
 ---
 
-### Browse ad-pentest-lab [GitHub Repo](https://github.com/anjulameegalla/ad-pentest-lab/) here.
+- ### Browse ad-pentest-lab [GitHub Repo](https://github.com/anjulameegalla/ad-pentest-lab/) here.
 
