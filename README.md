@@ -1,10 +1,7 @@
-# Windows Active Directory Pentest Lab on Azure
+# Windows Active Directory Practice Lab on Azure
 
 ## AD lab creation - Initial steps
 
-<details>
-    <summary><b>Click to expand</b></summary>
-    <br>
 
 ### Creating Azure resources
 
@@ -320,36 +317,8 @@ and
 - Username : GOTHAM\lfox
 - Password : Password2
 
-</details>
+<br>
 
----
-
-## Setting up the Attacker machine
-
-### Attacker VM
-
-- VM name : KALI
-- Image : Kali Linux 2025.2
-- Username : kali
-- Password : labuser123Anjula
-- Vnet : ADLabNet (10.0.1.0/24)
-- Connection : SSH (22) / Azure serial console
-
-
----
-
-## Planning the attack methods - pentest structure
-
-1. LLMNR poisoning
-2. SMB relay
-3. IPv6 DNS attack
-4. MFP hacking
-5. 
-
-#
-#
-
-### ***to be continued…***
-
-
-
+<p align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+</p>
