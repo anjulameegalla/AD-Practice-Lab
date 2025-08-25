@@ -1,6 +1,10 @@
-# AD Pentest Lab on Azure
+# Windows Active Directory Pentest Lab on Azure
 
-## Active Directory lab creation - Initial steps
+## AD lab creation - Initial steps
+
+<details>
+    <summary><b>Click to expand</b></summary>
+    <br>
 
 ### Creating Azure resources
 
@@ -316,6 +320,8 @@ and
 - Username : GOTHAM\lfox
 - Password : Password2
 
+</details>
+
 ---
 
 ## Setting up the Attacker machine
@@ -329,12 +335,10 @@ and
 - Vnet : ADLabNet (10.0.1.0/24)
 - Connection : SSH (22) / Azure serial console
 
-![photo_6323169858581284747_y.jpg](res/photo_6323169858581284747_y.jpg)
-
 
 ---
 
-### Planning the attack methods - pentest structure
+## Planning the attack methods - pentest structure
 
 1. LLMNR poisoning
 2. SMB relay
