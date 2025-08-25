@@ -320,8 +320,6 @@ and
 - Username : GOTHAM\lfox
 - Password : Password2
 
-</details>
-
 ---
 
 ## Setting up the Attacker machine
@@ -335,10 +333,12 @@ and
 - Vnet : ADLabNet (10.0.1.0/24)
 - Connection : SSH (22) / Azure serial console
 
+<br>
 
----
+</details>
 
-## Planning the attack methods - pentest structure
+
+## Pentest Structure
 
 1. LLMNR poisoning
 2. SMB relay
